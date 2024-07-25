@@ -1,4 +1,4 @@
-const ConectarBD=require("./conectarBD");
+const ConectarBD=require("./ConectarBD");
 
 class UsuarioBD extends ConectarBD{
     constructor(){
